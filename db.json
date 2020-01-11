@@ -2,9 +2,14 @@
   "users": [
     {
       "id": "23",
-      "firstName": "Andy",
-      "age": 35,
-      "companyId": "1"
+      "firstName": "Andrew",
+      "age": 10,
+      "companyId": "1",
+      "args": {
+        "id": "23",
+        "firstName": "Andrew",
+        "age": 10
+      }
     },
     {
       "id": "2",

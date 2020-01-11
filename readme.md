@@ -21,3 +21,6 @@ fragment companyDetails on Company {
 # Mutations
 -Create, Delete, Edit operations
 -Schema.js Line 98 Note 1
+-Put vs. Patch: Put overwrites completely, Patch overwrites partially
+-Schema.js Line 103 Note 2
+-Error: Wrapped edit args in curly brackets, which created a new object (Removed)
