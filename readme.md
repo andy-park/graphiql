@@ -20,3 +20,4 @@ fragment companyDetails on Company {
 
 # Mutations
 -Create, Delete, Edit operations
+-Schema.js Line 98 Note 1
